@@ -10,4 +10,5 @@ Here is the resources of the problems:-
 5) Palindrom Number- https://www.youtube.com/watch?v=NYW2zaXfRWY
 6) Longest Palindromic Substring- https://www.youtube.com/watch?v=ZJUGtWObroc
 7) Roman To Integer- https://www.youtube.com/watch?v=KwrAArXFF30
+8) Longest Common Prefix- https://www.youtube.com/watch?v=Ev11iLc84lk
 
