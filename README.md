@@ -7,4 +7,5 @@ Here is the resources of the problems:-
 2) Add Two Numbers- https://www.youtube.com/watch?v=LBVsXSMOIk4
 3) Longest Substring Without Repeating Characters- https://www.youtube.com/watch?v=s2ZGeNeKpuI
 4) Reverse Integer- https://www.youtube.com/watch?v=EtuWmKsyAZE
+5) Palindrom Number- https://www.youtube.com/watch?v=NYW2zaXfRWY
 
