@@ -8,5 +8,6 @@ Here is the resources of the problems:-
 3) Longest Substring Without Repeating Characters- https://www.youtube.com/watch?v=s2ZGeNeKpuI
 4) Reverse Integer- https://www.youtube.com/watch?v=EtuWmKsyAZE
 5) Palindrom Number- https://www.youtube.com/watch?v=NYW2zaXfRWY
-6)  Longest Palindromic Substring- https://www.youtube.com/watch?v=ZJUGtWObroc
+6) Longest Palindromic Substring- https://www.youtube.com/watch?v=ZJUGtWObroc
+7) Roman To Integer- https://www.youtube.com/watch?v=KwrAArXFF30
 
