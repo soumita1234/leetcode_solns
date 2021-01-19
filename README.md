@@ -14,4 +14,5 @@ Here is the resources of the problems:-
 9)  Remove Duplicates from Sorted Array- https://www.youtube.com/watch?v=zIHe2V5Py3U
 10) Valid Parentheses- https://www.youtube.com/watch?v=pSGlsUtqmrM
 11) Merge Two Sorted Lists- https://www.youtube.com/watch?v=KVf1Uuqfv8E
+12) Remove Element- https://www.youtube.com/watch?v=IPWeJJClNHQ
 
