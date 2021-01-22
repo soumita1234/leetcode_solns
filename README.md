@@ -15,7 +15,7 @@ Here is the resources of the problems:-
 10) Valid Parentheses- https://www.youtube.com/watch?v=pSGlsUtqmrM
 11) Merge Two Sorted Lists- https://www.youtube.com/watch?v=KVf1Uuqfv8E
 12) Remove Element- https://www.youtube.com/watch?v=IPWeJJClNHQ
-14) Implement strStr- https://www.youtube.com/watch?v=zUl5yOhLK04
-15) Remove Duplicates from Sorted Array  II- https://www.tutorialspoint.com/remove-duplicates-from-sorted-array-ii-in-cplusplus
-16) Search Insert Position- https://www.youtube.com/watch?v=MAxFNkxf_wg
+13) Implement strStr- https://www.youtube.com/watch?v=zUl5yOhLK04
+14) Remove Duplicates from Sorted Array  II- https://www.tutorialspoint.com/remove-duplicates-from-sorted-array-ii-in-cplusplus
+15) Search Insert Position- https://www.youtube.com/watch?v=MAxFNkxf_wg
 
