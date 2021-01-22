@@ -16,6 +16,6 @@ Here is the resources of the problems:-
 11) Merge Two Sorted Lists- https://www.youtube.com/watch?v=KVf1Uuqfv8E
 12) Remove Element- https://www.youtube.com/watch?v=IPWeJJClNHQ
 14) Implement strStr- https://www.youtube.com/watch?v=zUl5yOhLK04
-15) Remove Duplicates from Sorted Array- https://www.tutorialspoint.com/remove-duplicates-from-sorted-array-ii-in-cplusplus
+15) Remove Duplicates from Sorted Array  II- https://www.tutorialspoint.com/remove-duplicates-from-sorted-array-ii-in-cplusplus
 16) Search Insert Position- https://www.youtube.com/watch?v=MAxFNkxf_wg
 
