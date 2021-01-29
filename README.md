@@ -18,4 +18,5 @@ Here is the resources of the problems:-
 13) Implement strStr- https://www.youtube.com/watch?v=zUl5yOhLK04
 14) Remove Duplicates from Sorted Array  II- https://www.tutorialspoint.com/remove-duplicates-from-sorted-array-ii-in-cplusplus
 15) Search Insert Position- https://www.youtube.com/watch?v=MAxFNkxf_wg
+16) Count and Say- https://youtu.be/1YUqtoT9YoE
 
