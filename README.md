@@ -19,5 +19,5 @@ Here is the resources of the problems:-
 14) Remove Duplicates from Sorted Array  II- https://www.tutorialspoint.com/remove-duplicates-from-sorted-array-ii-in-cplusplus
 15) Search Insert Position- https://www.youtube.com/watch?v=MAxFNkxf_wg
 16) Count and Say- https://youtu.be/1YUqtoT9YoE
-17) Maximum Subarray- 
+17) Maximum Subarray- https://youtu.be/w_KEocd__20
 
