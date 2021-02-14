@@ -21,4 +21,5 @@ Here is the resources of the problems:-
 16) Count and Say- https://youtu.be/1YUqtoT9YoE
 17) Maximum Subarray- https://youtu.be/w_KEocd__20
 18) Length of Last Word- https://youtu.be/E8r1N8wNR0A
+19) Plus One- https://www.youtube.com/watch?v=yzlQj0LR7m8
 
