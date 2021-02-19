@@ -24,3 +24,4 @@ Here is the resources of the problems:-
 19) Plus One- https://www.youtube.com/watch?v=yzlQj0LR7m8
 20) Add Binary- https://www.youtube.com/watch?v=SwPXgTiv8Ag
 21) Climbing Stairs- https://www.youtube.com/watch?v=AWezsCJDHSk
+22) Best time to buy and sell stock- https://www.youtube.com/watch?v=eMSfBgbiEjk
