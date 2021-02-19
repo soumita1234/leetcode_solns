@@ -22,4 +22,5 @@ Here is the resources of the problems:-
 17) Maximum Subarray- https://youtu.be/w_KEocd__20
 18) Length of Last Word- https://youtu.be/E8r1N8wNR0A
 19) Plus One- https://www.youtube.com/watch?v=yzlQj0LR7m8
+20) Add Binary- https://www.youtube.com/watch?v=SwPXgTiv8Ag
 
