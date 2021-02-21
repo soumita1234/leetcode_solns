@@ -29,3 +29,4 @@ Here is the resources of the problems:-
 24) Valid Palindrome- https://www.youtube.com/watch?v=028pTf2kBFI 
 25) Valid Palindrom ii- https://www.youtube.com/watch?v=wTaJp8_bSLQ
 26) Sqrt(x)- Basic sqrt() function of number 'x'
+27) Excel sheet column title- https://www.youtube.com/watch?v=UcTKk2y_3s4
