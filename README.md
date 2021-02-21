@@ -28,3 +28,4 @@ Here is the resources of the problems:-
 23) Best time to buy and sell stock II- https://www.youtube.com/watch?v=K8iHi8AW1ls
 24) Valid Palindrome- https://www.youtube.com/watch?v=028pTf2kBFI 
 25) Valid Palindrom ii- https://www.youtube.com/watch?v=wTaJp8_bSLQ
+26) Sqrt(x)- Basic sqrt() function of number 'x'
