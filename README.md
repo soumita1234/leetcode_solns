@@ -30,3 +30,4 @@ Here is the resources of the problems:-
 25) Valid Palindrom ii- https://www.youtube.com/watch?v=wTaJp8_bSLQ
 26) Sqrt(x)- Basic sqrt() function of number 'x'
 27) Excel sheet column title- https://www.youtube.com/watch?v=UcTKk2y_3s4
+28) Excel Sheet Column Number- https://www.youtube.com/watch?v=g-l4UpF62x0
