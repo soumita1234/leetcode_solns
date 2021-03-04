@@ -32,3 +32,4 @@ Here is the resources of the problems:-
 27) Excel sheet column title- https://www.youtube.com/watch?v=UcTKk2y_3s4
 28) Excel Sheet Column Number- https://www.youtube.com/watch?v=g-l4UpF62x0
 29) Happy Number- https://www.youtube.com/watch?v=Egw03gI-Tf0
+30) Single Number- https://www.youtube.com/watch?v=krgK0UlfNYY
