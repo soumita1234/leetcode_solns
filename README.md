@@ -34,4 +34,5 @@ Here is the resources of the problems:-
 29) Happy Number- https://www.youtube.com/watch?v=Egw03gI-Tf0
 30) Single Number- https://www.youtube.com/watch?v=krgK0UlfNYY
 31) Single Number II- https://www.youtube.com/watch?v=cOFAmaMBVps
-32) Majority Elemrnt- https://www.youtube.com/watch?v=AoX3BPWNnoE
+32) Majority Element- https://www.youtube.com/watch?v=AoX3BPWNnoE
+33) Majority Element- https://www.youtube.com/watch?v=yDbkQd9t2ig
