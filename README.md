@@ -36,3 +36,4 @@ Here is the resources of the problems:-
 31) Single Number II- https://www.youtube.com/watch?v=cOFAmaMBVps
 32) Majority Element- https://www.youtube.com/watch?v=AoX3BPWNnoE
 33) Majority Element- https://www.youtube.com/watch?v=yDbkQd9t2ig
+34) Min Stack- https://www.youtube.com/watch?v=8UegNFCUQks
