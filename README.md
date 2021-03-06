@@ -40,3 +40,4 @@ Here is the resources of the problems:-
 35) Remove Duplicates From Sorted List- https://www.youtube.com/watch?v=wIB5sg_Ulx4
 36) Remove Duplicates From Sorted List- https://www.youtube.com/watch?v=R6-PnHODewY
 37) Swapping Nodes In a Linked List- https://www.youtube.com/watch?v=ASENF_X5QTA
+38) Merge Sorted Array- https://www.youtube.com/watch?v=C4oBXLr3zos
