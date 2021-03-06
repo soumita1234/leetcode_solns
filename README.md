@@ -38,3 +38,4 @@ Here is the resources of the problems:-
 33) Majority Element- https://www.youtube.com/watch?v=yDbkQd9t2ig
 34) Min Stack- https://www.youtube.com/watch?v=8UegNFCUQks
 35) Remove Duplicates From Sorted List- https://www.youtube.com/watch?v=wIB5sg_Ulx4
+36) Remove Duplicates From Sorted List- https://www.youtube.com/watch?v=R6-PnHODewY
