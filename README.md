@@ -1,6 +1,6 @@
 # leetcode_solns
 leetcode solutions of the questions I've done.
-Here is some resources for understandging the problems.
+Here is some resources for understanding the problems.
 
 Here is the resources of the problems:-
 1)  Two Sum- https://www.studytonight.com/post/leetcode-solution-2-sum-problem
