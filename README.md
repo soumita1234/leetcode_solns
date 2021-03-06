@@ -39,3 +39,4 @@ Here is the resources of the problems:-
 34) Min Stack- https://www.youtube.com/watch?v=8UegNFCUQks
 35) Remove Duplicates From Sorted List- https://www.youtube.com/watch?v=wIB5sg_Ulx4
 36) Remove Duplicates From Sorted List- https://www.youtube.com/watch?v=R6-PnHODewY
+37) Swapping Nodes In a Linked List- https://www.youtube.com/watch?v=ASENF_X5QTA
