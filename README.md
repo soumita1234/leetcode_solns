@@ -44,3 +44,4 @@ Here is the resources of the problems:-
 39) Linked List Cycle- https://www.youtube.com/watch?v=354J83hX7RI
 40) Linked List Cycle ii- https://www.youtube.com/watch?v=q9aTM-6__Ho
 41) Remove Nth Node from End of Linked List- https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/
+42) Swap Nodes In Pair- https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/
