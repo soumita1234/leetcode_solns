@@ -43,3 +43,4 @@ Here is the resources of the problems:-
 38) Merge Sorted Array- https://www.youtube.com/watch?v=C4oBXLr3zos
 39) Linked List Cycle- https://www.youtube.com/watch?v=354J83hX7RI
 40) Linked List Cycle ii- https://www.youtube.com/watch?v=q9aTM-6__Ho
+41) Remove Nth Node from End of Linked List- https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/
