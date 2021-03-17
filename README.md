@@ -46,3 +46,4 @@ Here is the resources of the problems:-
 41) Remove Nth Node from End of Linked List- https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/
 42) Swap Nodes In Pair- https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/
 43) Intersection of two linked list- https://www.youtube.com/watch?v=8qi8a2ph71o
+44) Same Tree- https://leetcode.com/problems/same-tree/solution/
