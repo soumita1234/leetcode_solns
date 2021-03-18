@@ -48,3 +48,4 @@ Here is the resources of the problems:-
 43) Intersection of two linked list- https://www.youtube.com/watch?v=8qi8a2ph71o
 44) Same Tree- https://leetcode.com/problems/same-tree/solution/
 45) Symmetric Tree- https://leetcode.com/problems/symmetric-tree/solution/
+46) Traping Rain Water- https://www.youtube.com/watch?v=HmBbcDiJapY
