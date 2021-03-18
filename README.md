@@ -49,3 +49,4 @@ Here is the resources of the problems:-
 44) Same Tree- https://leetcode.com/problems/same-tree/solution/
 45) Symmetric Tree- https://leetcode.com/problems/symmetric-tree/solution/
 46) Traping Rain Water- https://www.youtube.com/watch?v=HmBbcDiJapY
+47) Pascal's Triangle- https://www.youtube.com/watch?v=6FLvhQjZqvM
