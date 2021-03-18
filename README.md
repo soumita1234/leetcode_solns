@@ -51,3 +51,4 @@ Here is the resources of the problems:-
 46) Traping Rain Water- https://www.youtube.com/watch?v=HmBbcDiJapY
 47) Pascal's Triangle- https://www.youtube.com/watch?v=6FLvhQjZqvM
 48) Find The Duplicate Number- https://www.youtube.com/watch?v=32Ll35mhWg0&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2
+49) Sort Colors- https://www.youtube.com/watch?v=oaVa-9wmpns&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=2
