@@ -56,3 +56,4 @@ Here is the resources of the problems:-
 51) Reverse Linked List- https://www.youtube.com/watch?v=iRtLEoL-r-g&list=PLgUwDviBIf0r47RKH7fdWN54AbWFgGuii
 52) Delete Node in a Linked List- https://www.youtube.com/watch?v=icnp4FJdZ_c&list=PLgUwDviBIf0r47RKH7fdWN54AbWFgGuii&index=5
 53) Remove Linked List Elements- https://leetcode.com/problems/remove-linked-list-elements/discuss/?currentPage=1&orderBy=hot&query=
+54) Devide Two Integers- https://www.youtube.com/watch?v=m4L_5qG4vG8
