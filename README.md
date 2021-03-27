@@ -57,3 +57,4 @@ Here is the resources of the problems:-
 52) Delete Node in a Linked List- https://www.youtube.com/watch?v=icnp4FJdZ_c&list=PLgUwDviBIf0r47RKH7fdWN54AbWFgGuii&index=5
 53) Remove Linked List Elements- https://leetcode.com/problems/remove-linked-list-elements/discuss/?currentPage=1&orderBy=hot&query=
 54) Devide Two Integers- https://www.youtube.com/watch?v=m4L_5qG4vG8
+55) Generate Parentheses- https://leetcode.com/problems/generate-parentheses/discuss/1124122/Easy-to-understand-C%2B%2B-solution
