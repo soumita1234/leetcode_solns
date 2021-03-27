@@ -61,3 +61,4 @@ Here is the resources of the problems:-
 56) Cointainer With Most Water- https://www.youtube.com/watch?v=6PrIRPpTI9Q
 57) Number of Good pairs- Basic array traversal.
 58) 3sum- https://www.youtube.com/watch?v=onLoX6Nhvmg
+59) Two Sum II- Basic iteration view code
