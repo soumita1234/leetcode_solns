@@ -58,3 +58,4 @@ Here is the resources of the problems:-
 53) Remove Linked List Elements- https://leetcode.com/problems/remove-linked-list-elements/discuss/?currentPage=1&orderBy=hot&query=
 54) Devide Two Integers- https://www.youtube.com/watch?v=m4L_5qG4vG8
 55) Generate Parentheses- https://leetcode.com/problems/generate-parentheses/discuss/1124122/Easy-to-understand-C%2B%2B-solution
+56) Cointainer With Most Water- https://www.youtube.com/watch?v=6PrIRPpTI9Q
