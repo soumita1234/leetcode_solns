@@ -65,3 +65,4 @@ Here is the resources of the problems:-
 60) Contains Duplicate- sort the array then check if two continuous elemts are equal or not.view code
 61) Contains Duplicates II- Use map datastructure.. view code
 62) Summary Ranges- https://www.youtube.com/watch?v=wvpd_FvSNzo
+63) Palindrom Lisked list- https://www.youtube.com/watch?v=-DtNInqFUXs
