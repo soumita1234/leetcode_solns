@@ -67,3 +67,4 @@ Here is the resources of the problems:-
 62) Summary Ranges- https://www.youtube.com/watch?v=wvpd_FvSNzo
 63) Palindrom Linked list- https://www.youtube.com/watch?v=-DtNInqFUXs
 64) Middle Of the Linked List- https://www.youtube.com/watch?v=sGdwSH8RK-o
+65) Convert binary number in a linked list- https://www.youtube.com/watch?v=CyxbuJwA-0g
