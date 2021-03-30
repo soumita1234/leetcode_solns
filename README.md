@@ -70,3 +70,4 @@ Here is the resources of the problems:-
 65) Convert binary number in a linked list- https://www.youtube.com/watch?v=CyxbuJwA-0g
 66) Rotate List- https://www.youtube.com/watch?v=L4SpbpKUN9A
 67) Count Prime- https://leetcode.com/problems/count-primes/discuss/?currentPage=1&orderBy=hot&query=
+68) Power of two- https://www.youtube.com/watch?v=zSxsECATphs
