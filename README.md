@@ -69,3 +69,4 @@ Here is the resources of the problems:-
 64) Middle Of the Linked List- https://www.youtube.com/watch?v=sGdwSH8RK-o
 65) Convert binary number in a linked list- https://www.youtube.com/watch?v=CyxbuJwA-0g
 66) Rotate List- https://www.youtube.com/watch?v=L4SpbpKUN9A
+67) Count Prime- https://leetcode.com/problems/count-primes/discuss/?currentPage=1&orderBy=hot&query=
