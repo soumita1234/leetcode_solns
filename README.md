@@ -73,3 +73,4 @@ Here is the resources of the problems:-
 68) Power of two- https://www.youtube.com/watch?v=zSxsECATphs
 69) Number of 1 bits- https://www.youtube.com/watch?v=v8GetgcrwXk
 70) Power of three- https://www.youtube.com/watch?v=RH9ZKMsmEpA
+71) Power of four- Same as above approach
