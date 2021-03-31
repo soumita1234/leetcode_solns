@@ -76,4 +76,5 @@ Here is the resources of the problems:-
 71) Power of four- Same as above approach
 72) Number of Steps to Reduce a Number to Zero- Basic math oprations
 73) Sum of two integers- https://leetcode.com/problems/sum-of-two-integers/discuss/1097789/100-c%2B%2B
+74) Missing Numbers- https://leetcode.com/problems/missing-number/solution/
 
