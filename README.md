@@ -78,4 +78,5 @@ Here is the resources of the problems:-
 73) Sum of two integers- https://leetcode.com/problems/sum-of-two-integers/discuss/1097789/100-c%2B%2B
 74) Missing Numbers- https://leetcode.com/problems/missing-number/solution/
 75) Factorial Trailing Zeroes- https://www.youtube.com/watch?v=fx8rUY_iIms
+76) Number of digit 1- https://leetcode.com/problems/number-of-digit-one/solution/
 
