@@ -82,4 +82,5 @@ Here is the resources of the problems:-
 77) Add digits- https://leetcode.com/problems/add-digits/solution/
 78) Ugli Number- https://www.youtube.com/watch?v=o8CkYoFqeE8
 79) Valid perfect squre- https://www.youtube.com/watch?v=tSy8lDLPduU
+80) Arranging Coins- https://www.youtube.com/watch?v=veVCO-PvfnE
 
