@@ -80,4 +80,5 @@ Here is the resources of the problems:-
 75) Factorial Trailing Zeroes- https://www.youtube.com/watch?v=fx8rUY_iIms
 76) Number of digit 1- https://leetcode.com/problems/number-of-digit-one/solution/
 77) Add digits- https://leetcode.com/problems/add-digits/solution/
+78) Ugli Number- https://www.youtube.com/watch?v=o8CkYoFqeE8
 
