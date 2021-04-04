@@ -79,4 +79,5 @@ Here is the resources of the problems:-
 74) Missing Numbers- https://leetcode.com/problems/missing-number/solution/
 75) Factorial Trailing Zeroes- https://www.youtube.com/watch?v=fx8rUY_iIms
 76) Number of digit 1- https://leetcode.com/problems/number-of-digit-one/solution/
+77) Add digits- https://leetcode.com/problems/add-digits/solution/
 
