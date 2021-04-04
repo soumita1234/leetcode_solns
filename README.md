@@ -81,4 +81,5 @@ Here is the resources of the problems:-
 76) Number of digit 1- https://leetcode.com/problems/number-of-digit-one/solution/
 77) Add digits- https://leetcode.com/problems/add-digits/solution/
 78) Ugli Number- https://www.youtube.com/watch?v=o8CkYoFqeE8
+79) Valid perfect squre- https://www.youtube.com/watch?v=tSy8lDLPduU
 
