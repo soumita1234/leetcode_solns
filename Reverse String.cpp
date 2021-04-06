@@ -7,3 +7,23 @@ public:
         }
     }
 };
+
+
+class Solution {
+public:
+    void reverseString(vector<char>& s) {
+        reverse(s.begin(),s.end());
+        
+    }
+};
+
+class Solution {
+public:
+    void reverseString(vector<char>& s) {
+        int first=0,last=s.size()-1;
+        while(first<last){
+            swap(s[first++],s[last--]);
+        }
+        
+    }
+};
