@@ -19,3 +19,24 @@ public:
         return s;
     }
 };
+
+class Solution {
+public:
+    string reverseVowels(string s) 
+    {
+        for(int i=0,j=s.size()-1;i<j;i++,j--)
+        {
+            while((tolower(s[i])!='a'&&tolower(s[i])!='e'&&tolower(s[i])!='i'&&tolower(s[i])!='o'&&tolower(s[i])!='u')&&(i<j))
+            {
+                i++;
+            }
+            while((tolower(s[j])!='a'&&tolower(s[j])!='e'&&tolower(s[j])!='i'&&tolower(s[j])!='o'&&tolower(s[j])!='u')&&(i<j))
+            {
+                j--;
+            }
+            // cout<<i<<" "<<j<<endl;
+            swap(s[i],s[j]);
+        }
+        return s;
+    }
+};
