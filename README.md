@@ -84,4 +84,5 @@ Here is the resources of the problems:-
 79) Valid perfect squre- https://www.youtube.com/watch?v=tSy8lDLPduU
 80) Arranging Coins- https://www.youtube.com/watch?v=veVCO-PvfnE
 81) Reverse String- use c++ stl reverse(s.begin(),s.end()) then print string.
+82) Reverse Vowels Of String- https://leetcode.com/problems/reverse-vowels-of-a-string/discuss/1135893/C%2B%2B-solution
 
