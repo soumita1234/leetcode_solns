@@ -83,4 +83,5 @@ Here is the resources of the problems:-
 78) Ugli Number- https://www.youtube.com/watch?v=o8CkYoFqeE8
 79) Valid perfect squre- https://www.youtube.com/watch?v=tSy8lDLPduU
 80) Arranging Coins- https://www.youtube.com/watch?v=veVCO-PvfnE
+81) Reverse String- use c++ stl reverse(s.begin(),s.end()) then print string.
 
