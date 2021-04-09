@@ -85,5 +85,6 @@ Here is the resources of the problems:-
 80) Arranging Coins- https://www.youtube.com/watch?v=veVCO-PvfnE
 81) Reverse String- use c++ stl reverse(s.begin(),s.end()) then print string.
 82) Reverse Vowels Of String- https://leetcode.com/problems/reverse-vowels-of-a-string/discuss/1135893/C%2B%2B-solution
-83)  Number of Segments in a String- https://leetcode.com/problems/number-of-segments-in-a-string/solution/
+83) Number of Segments in a String- https://leetcode.com/problems/number-of-segments-in-a-string/solution/
+84) Repeated Substring Pattern- https://www.youtube.com/watch?v=p92_kEjyJAo
 
