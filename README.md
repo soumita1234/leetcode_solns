@@ -88,4 +88,5 @@ Here is the resources of the problems:-
 83) Number of Segments in a String- https://leetcode.com/problems/number-of-segments-in-a-string/solution/
 84) Repeated Substring Pattern- https://www.youtube.com/watch?v=p92_kEjyJAo
 85) Remove Outermost Parentheses- https://www.youtube.com/results?search_query=Remove+Outermost+Parentheses+leetcode
+86) Divisor Game- if even return true,else false.
 
