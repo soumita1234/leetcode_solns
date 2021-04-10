@@ -87,4 +87,5 @@ Here is the resources of the problems:-
 82) Reverse Vowels Of String- https://leetcode.com/problems/reverse-vowels-of-a-string/discuss/1135893/C%2B%2B-solution
 83) Number of Segments in a String- https://leetcode.com/problems/number-of-segments-in-a-string/solution/
 84) Repeated Substring Pattern- https://www.youtube.com/watch?v=p92_kEjyJAo
+85) Remove Outermost Parentheses- https://www.youtube.com/results?search_query=Remove+Outermost+Parentheses+leetcode
 
