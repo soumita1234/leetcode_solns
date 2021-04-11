@@ -89,4 +89,5 @@ Here is the resources of the problems:-
 84) Repeated Substring Pattern- https://www.youtube.com/watch?v=p92_kEjyJAo
 85) Remove Outermost Parentheses- https://www.youtube.com/results?search_query=Remove+Outermost+Parentheses+leetcode
 86) Divisor Game- if even return true,else false.
+87) Maximum Depth of Binary Tree- https://www.youtube.com/watch?v=UDifXyZp0dQ
 
