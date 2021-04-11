@@ -90,4 +90,5 @@ Here is the resources of the problems:-
 85) Remove Outermost Parentheses- https://www.youtube.com/results?search_query=Remove+Outermost+Parentheses+leetcode
 86) Divisor Game- if even return true,else false.
 87) Maximum Depth of Binary Tree- https://www.youtube.com/watch?v=UDifXyZp0dQ
+88) Balanced Binary tree- https://www.youtube.com/results?search_query=balanced+binary+tree
 
