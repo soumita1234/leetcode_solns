@@ -92,4 +92,5 @@ Here is the resources of the problems:-
 87) Maximum Depth of Binary Tree- https://www.youtube.com/watch?v=UDifXyZp0dQ
 88) Balanced Binary tree- https://www.youtube.com/results?search_query=balanced+binary+tree
 89) Minimum Depth of Binary Tree- https://www.youtube.com/watch?v=6aChG_3jMAQ
+90) Path Sum- https://www.youtube.com/watch?v=Hg82DzMemMI
 
