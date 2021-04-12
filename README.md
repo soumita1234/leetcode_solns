@@ -94,4 +94,5 @@ Here is the resources of the problems:-
 89) Minimum Depth of Binary Tree- https://www.youtube.com/watch?v=6aChG_3jMAQ
 90) Path Sum- https://www.youtube.com/watch?v=Hg82DzMemMI
 91) Isomorphic Strings- https://www.youtube.com/watch?v=qOUwtPIIhEU
+92) Find All Numbers Disappeared in an Array- https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/discuss/?currentPage=1&orderBy=hot&query=
 
