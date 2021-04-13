@@ -99,4 +99,5 @@ Here is the resources of the problems:-
 94) Pow(x, n)- general pow function
 95) Minimum Moves to Equal Array Elements- https://leetcode.com/problems/minimum-moves-to-equal-array-elements/discuss/?currentPage=1&orderBy=hot&query=
 96) Perfect Number- https://leetcode.com/problems/perfect-number/solution/
+97) Self Dividing Numbers- https://leetcode.com/problems/self-dividing-numbers/solution/
 
