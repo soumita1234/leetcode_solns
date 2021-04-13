@@ -97,4 +97,5 @@ Here is the resources of the problems:-
 92) Find All Numbers Disappeared in an Array- https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/discuss/?currentPage=1&orderBy=hot&query=
 93) Invert binary tree- https://leetcode.com/problems/invert-binary-tree/solution/
 94) Pow(x, n)- general pow function
+95) Minimum Moves to Equal Array Elements- https://leetcode.com/problems/minimum-moves-to-equal-array-elements/discuss/?currentPage=1&orderBy=hot&query=
 
