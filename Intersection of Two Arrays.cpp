@@ -9,7 +9,7 @@ public:
               s.insert(nums1[i]);
             
         }
-        //cout<<s.size()<<endl;
+      
         vector<int> res;
         for(int i =0; i < nums2.size();i++)
         {
