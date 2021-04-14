@@ -102,4 +102,5 @@ Here is the resources of the problems:-
 97) Self Dividing Numbers- https://leetcode.com/problems/self-dividing-numbers/solution/
 98) Intersection of Two Arrays- https://leetcode.com/problems/intersection-of-two-arrays/discuss/1066044/C%2B%2B-Accepted-%3A-Two-approaches-with-explanation
 99) First Bad Version- https://leetcode.com/problems/first-bad-version/
+100) Super Ugly Number- https://www.youtube.com/watch?v=TdS1nPEbmoo
 
