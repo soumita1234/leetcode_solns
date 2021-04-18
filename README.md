@@ -105,3 +105,4 @@ Here is the resources of the problems:-
 100) Super Ugly Number- https://www.youtube.com/watch?v=TdS1nPEbmoo
 101) 4sum- https://www.youtube.com/watch?v=4ggF3tXIAp0
 102) string to integer(atoi)- https://www.youtube.com/watch?v=5FRZactlI7s
+103) Ransom Note- https://www.youtube.com/watch?v=bYzvVCfbwXM
