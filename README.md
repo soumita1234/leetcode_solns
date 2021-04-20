@@ -107,3 +107,4 @@ Here is the resources of the problems:-
 102) string to integer(atoi)- https://www.youtube.com/watch?v=5FRZactlI7s
 103) Ransom Note- https://www.youtube.com/watch?v=bYzvVCfbwXM
 104) Valid Anagram- sort and compare
+105) Intersection of Two Arrays II- https://www.youtube.com/watch?v=M3A5PGARZdE
