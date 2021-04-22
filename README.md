@@ -110,4 +110,4 @@ Here is the resources of the problems:-
 105) Intersection of Two Arrays II- https://www.youtube.com/watch?v=M3A5PGARZdE
 106) Subsets II- https://leetcode.com/problems/subsets-ii/discuss/1140408/Clear-and-simple-explanation-with-intuition
 107) Nim Game- https://leetcode.com/problems/nim-game/solution/
-108) Move Zeroes- Swap nums[i] and nums[i+1] if nums[i]==0;
+108) Move Zeroes- Swap nums[i] and nums[j] if nums[i]==0;
