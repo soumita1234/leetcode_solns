@@ -114,3 +114,4 @@ Here is the resources of the problems:-
 109) Largest Number At Least Twice of Others- https://leetcode.com/problems/largest-number-at-least-twice-of-others/solution/
 110) Guess Number Higher or Lower- https://leetcode.com/problems/guess-number-higher-or-lower/solution/
 111) Fizz Buzz- use to_string() function to convert int to string and add on resulting string
+112) Next Permutation- https://www.youtube.com/watch?v=LuLCLgMElus
