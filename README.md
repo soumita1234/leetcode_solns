@@ -119,5 +119,6 @@ Here is the resources of the problems:-
 114) Combination Sum- https://www.youtube.com/watch?v=OyZFFqQtu98
 115) Contains Duplicates III- https://www.youtube.com/watch?v=GkW6CQ7XV_4
 116) Rotate image- https://www.youtube.com/watch?v=Y72QeX0Efxw
+117) Find First and Last Position of Element in Sorted Array- https://www.youtube.com/watch?v=c_HH9sakxpY
 
  
