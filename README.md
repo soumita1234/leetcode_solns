@@ -120,5 +120,6 @@ Here is the resources of the problems:-
 115) Contains Duplicates III- https://www.youtube.com/watch?v=GkW6CQ7XV_4
 116) Rotate image- https://www.youtube.com/watch?v=Y72QeX0Efxw
 117) Find First and Last Position of Element in Sorted Array- https://www.youtube.com/watch?v=c_HH9sakxpY
+118) First Unique Character in a String- https://leetcode.com/problems/first-unique-character-in-a-string/solution/
 
  
