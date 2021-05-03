@@ -123,5 +123,6 @@ Here is the resources of the problems:-
 118) First Unique Character in a String- https://leetcode.com/problems/first-unique-character-in-a-string/solution/
 119) Find the Difference- solutions 
 120) Is Subsequence- https://www.youtube.com/watch?v=PwQnydsKk_I
+121) Hamming Distance- https://www.youtube.com/watch?v=5UKMvO5bXPI
 
  
