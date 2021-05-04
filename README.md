@@ -124,5 +124,6 @@ Here is the resources of the problems:-
 119) Find the Difference- solutions 
 120) Is Subsequence- https://www.youtube.com/watch?v=PwQnydsKk_I
 121) Hamming Distance- https://www.youtube.com/watch?v=5UKMvO5bXPI
+122) Island Perimeter- https://www.youtube.com/watch?v=ZQMJ1mrmhKo
 
  
