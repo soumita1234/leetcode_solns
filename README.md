@@ -129,5 +129,6 @@ Here is the resources of the problems:-
 124) Unique Paths- https://www.youtube.com/watch?v=t_f0nwwdg5o
 125) Distribute Candies- Use Set
 126) Base 7- Solution
+127) Assign Cookies- solution
 
  
