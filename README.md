@@ -131,5 +131,6 @@ Here is the resources of the problems:-
 126) Base 7- Solution
 127) Assign Cookies- solution
 128) Longest Palindrom- https://www.youtube.com/watch?v=J_Di2LmeLBQ
+129) House Robber- https://www.youtube.com/watch?v=yYqShJj-ydA
 
  
