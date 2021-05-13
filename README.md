@@ -133,5 +133,6 @@ Here is the resources of the problems:-
 128) Longest Palindrom- https://www.youtube.com/watch?v=J_Di2LmeLBQ
 129) House Robber- https://www.youtube.com/watch?v=yYqShJj-ydA
 130) Binary Tree Level Order Traversal- solution
+131) Can Place Flowers- https://www.youtube.com/watch?v=BaB-SSrz5C4
 
  
