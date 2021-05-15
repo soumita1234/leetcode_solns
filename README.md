@@ -135,5 +135,6 @@ Here is the resources of the problems:-
 130) Binary Tree Level Order Traversal- solution
 131) Can Place Flowers- https://www.youtube.com/watch?v=BaB-SSrz5C4
 132) Search in rotated sorted array- https://www.youtube.com/watch?v=oTfPJKGEHcc
+133) Search in Rotated Sorted Array II- Simple binary search
 
  
