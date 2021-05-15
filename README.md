@@ -136,5 +136,6 @@ Here is the resources of the problems:-
 131) Can Place Flowers- https://www.youtube.com/watch?v=BaB-SSrz5C4
 132) Search in rotated sorted array- https://www.youtube.com/watch?v=oTfPJKGEHcc
 133) Search in Rotated Sorted Array II- Simple binary search
+134) Search a 2D Matrix- Simple search
 
  
