@@ -137,5 +137,6 @@ Here is the resources of the problems:-
 132) Search in rotated sorted array- https://www.youtube.com/watch?v=oTfPJKGEHcc
 133) Search in Rotated Sorted Array II- Simple binary search
 134) Search a 2D Matrix- Simple search
+135) Find the peak element- https://leetcode.com/problems/find-peak-element/solution/
 
  
