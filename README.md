@@ -139,5 +139,6 @@ Here is the resources of the problems:-
 134) Search a 2D Matrix- Simple search
 135) Find the peak element- https://leetcode.com/problems/find-peak-element/solution/
 136) Transpose Matrix- solution
+137) Find Minimum in Rotated Sorted Array- Solution
 
  
