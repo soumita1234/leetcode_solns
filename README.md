@@ -141,5 +141,6 @@ Here is the resources of the problems:-
 136) Transpose Matrix- solution
 137) Find Minimum in Rotated Sorted Array- Solution
 138) Find Minimum in Rotated Sorted Array II- same as previous Qn.
+139) Sort Array By Parity- https://leetcode.com/problems/sort-array-by-parity/solution/
 
  
