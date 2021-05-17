@@ -11,3 +11,26 @@ public:
         
     }
 };
+
+
+
+class Solution {
+public:
+    vector<int> sortArrayByParity(vector<int>& n) {
+        int len = n.size()-1;
+        vector<int>ans;
+        for(int i=0;i<=len;i++){
+            if(n[i]%2==0){
+                ans.push_back(n[i]);}
+        
+            
+        }
+         for(int i=0;i<=len;i++){
+            if(n[i]%2!=0){
+                ans.push_back(n[i]);}
+             
+             
+        }
+        return ans;
+    }
+};
