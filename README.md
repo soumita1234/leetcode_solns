@@ -142,6 +142,7 @@ Here is the resources of the problems:-
 137) Find Minimum in Rotated Sorted Array- Solution
 138) Find Minimum in Rotated Sorted Array II- same as previous Qn.
 139) Sort Array By Parity- https://leetcode.com/problems/sort-array-by-parity/solution/
-140)  H-Index II- Solution
+140) H-Index II- Solution
+141)  Longest Substring with At Least K Repeating Characters- https://www.youtube.com/watch?v=bHZkCAcj3dc 
 
  
