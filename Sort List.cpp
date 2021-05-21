@@ -1,52 +1,45 @@
 //Merge Sort Method(AC)
 class Solution {
-    public ListNode sortList(ListNode head) {
-        if (head == null || head.next == null)
+public:
+    ListNode* sortList(ListNode* head) {
+        if (!head || !head->next)
             return head;
-        ListNode mid = getMid(head);
-        ListNode left = sortList(head);
-        ListNode right = sortList(mid);
+        ListNode* mid = getMid(head);
+        ListNode* left = sortList(head);
+        ListNode* right = sortList(mid);
         return merge(left, right);
     }
 
-    ListNode merge(ListNode list1, ListNode list2) {
-        ListNode dummyHead = new ListNode();
-        ListNode tail = dummyHead;
-        while (list1 != null && list2 != null) {
-            if (list1.val < list2.val) {
-                tail.next = list1;
-                list1 = list1.next;
-                tail = tail.next;
+    ListNode* merge(ListNode* list1, ListNode* list2) {
+        ListNode dummyHead(0);
+        ListNode* ptr = &dummyHead;
+        while (list1 && list2) {
+            if (list1->val < list2->val) {
+                ptr->next = list1;
+                list1 = list1->next;
             } else {
-                tail.next = list2;
-                list2 = list2.next;
-                tail = tail.next;
+                ptr->next = list2;
+                list2 = list2->next;
             }
+            ptr = ptr->next;
         }
-        tail.next = (list1 != null) ? list1 : list2;
+        if(list1) ptr->next = list1;
+        else ptr->next = list2;
+
         return dummyHead.next;
     }
 
-    ListNode getMid(ListNode head) {
-        ListNode midPrev = null;
-        while (head != null && head.next != null) {
-            midPrev = (midPrev == null) ? head : midPrev.next;
-            head = head.next.next;
+    ListNode* getMid(ListNode* head) {
+        ListNode* midPrev = nullptr;
+        while (head && head->next) {
+            midPrev = (midPrev == nullptr) ? head : midPrev->next;
+            head = head->next->next;
         }
-        ListNode mid = midPrev.next;
-        midPrev.next = null;
+        ListNode* mid = midPrev->next;
+        midPrev->next = nullptr;
         return mid;
     }
-}
-
-
-
-
-
-
-
-
-
+};
 
 // Selection sort method(TLE)
 
