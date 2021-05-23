@@ -147,5 +147,6 @@ Here is the resources of the problems:-
 142) Subsets- https://www.youtube.com/watch?v=1BbeOUkUOak 
 143) Sort List- https://www.youtube.com/watch?v=Lay55DGfyhA
 144) Longest Uncommon Subsequence I- https://leetcode.com/problems/longest-uncommon-subsequence-i/solution/
+145) Candy- https://www.youtube.com/watch?v=h6_lIwZYHQw
 
  
