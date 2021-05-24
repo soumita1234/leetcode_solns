@@ -148,5 +148,6 @@ Here is the resources of the problems:-
 143) Sort List- https://www.youtube.com/watch?v=Lay55DGfyhA
 144) Longest Uncommon Subsequence I- https://leetcode.com/problems/longest-uncommon-subsequence-i/solution/
 145) Candy- https://www.youtube.com/watch?v=h6_lIwZYHQw
+146) Remove Duplicate Letters- https://www.youtube.com/results?search_query=remove+duplicate+letters
 
  
