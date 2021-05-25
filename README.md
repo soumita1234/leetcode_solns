@@ -151,5 +151,6 @@ Here is the resources of the problems:-
 146) Remove Duplicate Letters- https://www.youtube.com/results?search_query=remove+duplicate+letters
 147) Pascal's Triangle- https://www.youtube.com/watch?v=IWXZAvBIuyE
 148) Triangle- https://www.youtube.com/watch?v=O2eaAdBpZBQ
+149) Best Time to Buy and Sell Stock III- https://www.youtube.com/watch?v=0FKn0FSIQYE
 
  
