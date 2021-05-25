@@ -150,5 +150,6 @@ Here is the resources of the problems:-
 145) Candy- https://www.youtube.com/watch?v=h6_lIwZYHQw
 146) Remove Duplicate Letters- https://www.youtube.com/results?search_query=remove+duplicate+letters
 147) Pascal's Triangle- https://www.youtube.com/watch?v=IWXZAvBIuyE
+148) Triangle- https://www.youtube.com/watch?v=O2eaAdBpZBQ
 
  
