@@ -155,5 +155,6 @@ Here is the resources of the problems:-
 150) Convert a Number to Hexadecimal- Solution
 151) Third Maximum Number- Use set stl
 152) Array partition I- Solution Using SORT 
+153) Rotate Array- https://leetcode.com/problems/rotate-array/solution/
 
  
