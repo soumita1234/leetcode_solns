@@ -156,5 +156,6 @@ Here is the resources of the problems:-
 151) Third Maximum Number- Use set stl
 152) Array partition I- Solution Using SORT 
 153) Rotate Array- https://leetcode.com/problems/rotate-array/solution/
+154) Basic Calculator II- https://leetcode.com/problems/basic-calculator-ii/solution/
 
  
