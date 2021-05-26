@@ -153,5 +153,6 @@ Here is the resources of the problems:-
 148) Triangle- https://www.youtube.com/watch?v=O2eaAdBpZBQ
 149) Best Time to Buy and Sell Stock III- https://www.youtube.com/watch?v=0FKn0FSIQYE
 150) Convert a Number to Hexadecimal- Solution
+151) Third Maximum Number- Use set stl
 
  
