@@ -159,5 +159,6 @@ Here is the resources of the problems:-
 154) Basic Calculator II- https://leetcode.com/problems/basic-calculator-ii/solution/
 155) Counting Bits- https://www.youtube.com/watch?v=iuqr5hHk2MI
 156) ZigZag Conversion- https://www.youtube.com/watch?v=tF3uyBodl-A
+157) 3sum Closest- https://www.youtube.com/watch?v=hHMz-9sXE1g
 
  
