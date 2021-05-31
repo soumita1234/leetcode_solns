@@ -160,5 +160,6 @@ Here is the resources of the problems:-
 155) Counting Bits- https://www.youtube.com/watch?v=iuqr5hHk2MI
 156) ZigZag Conversion- https://www.youtube.com/watch?v=tF3uyBodl-A
 157) 3sum Closest- https://www.youtube.com/watch?v=hHMz-9sXE1g
+158) Letter Combinations of a Phone Number- https://www.youtube.com/watch?v=JchCcO6nSLw
 
  
