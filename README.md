@@ -161,5 +161,6 @@ Here is the resources of the problems:-
 156) ZigZag Conversion- https://www.youtube.com/watch?v=tF3uyBodl-A
 157) 3sum Closest- https://www.youtube.com/watch?v=hHMz-9sXE1g
 158) Letter Combinations of a Phone Number- https://www.youtube.com/watch?v=JchCcO6nSLw
+159) Permutations- https://www.youtube.com/watch?v=1Rox5gt51b0
 
  
