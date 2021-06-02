@@ -162,5 +162,6 @@ Here is the resources of the problems:-
 157) 3sum Closest- https://www.youtube.com/watch?v=hHMz-9sXE1g
 158) Letter Combinations of a Phone Number- https://www.youtube.com/watch?v=JchCcO6nSLw
 159) Permutations- https://www.youtube.com/watch?v=1Rox5gt51b0
+160) Group Anagram- https://www.youtube.com/watch?v=ywRjEfkNsVc
 
  
