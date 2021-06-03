@@ -164,5 +164,6 @@ Here is the resources of the problems:-
 159) Permutations- https://www.youtube.com/watch?v=1Rox5gt51b0
 160) Group Anagram- https://www.youtube.com/watch?v=ywRjEfkNsVc
 161) Insert Interval- https://www.youtube.com/watch?v=FuLfL_WhUHI
+162) Partition List-https://leetcode.com/problems/partition-list/solution/
 
  
