@@ -166,5 +166,6 @@ Here is the resources of the problems:-
 161) Insert Interval- https://www.youtube.com/watch?v=FuLfL_WhUHI
 162) Partition List-https://leetcode.com/problems/partition-list/solution/
 163) Reverse Linked List II- https://www.youtube.com/watch?v=GSJuwQzKSnI
+164) Sprial Matrix- https://www.youtube.com/watch?v=1ZGJzvkcLsA&t=56s
 
  
