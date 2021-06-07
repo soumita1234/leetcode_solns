@@ -169,5 +169,6 @@ Here is the resources of the problems:-
 164) Sprial Matrix- https://www.youtube.com/watch?v=1ZGJzvkcLsA&t=56s
 165) Longest Consecutive Sequence- Solution
 166) Min Cost Climbing Stairs- Use dp. Solution
+167) Max Consecutive Ones- Solution
 
  
