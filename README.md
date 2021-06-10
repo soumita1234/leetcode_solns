@@ -172,5 +172,6 @@ Here is the resources of the problems:-
 167) Max Consecutive Ones- Solution
 168) Find Numbers with Even Number of Digits- Solution
 169) Jump Game VI- https://leetcode.com/problems/jump-game-vi/discuss/1260737/Optimizations-from-Brute-Force-to-Dynamic-Programming-w-Explanation
+170) My Calender I- Solution
 
  
