@@ -174,5 +174,6 @@ Here is the resources of the problems:-
 169) Jump Game VI- https://leetcode.com/problems/jump-game-vi/discuss/1260737/Optimizations-from-Brute-Force-to-Dynamic-Programming-w-Explanation
 170) My Calender I- Solution
 171) Stone Game VII- https://leetcode.com/problems/stone-game-vii/discuss/1264516/JS-Python-Java-C%2B%2B-or-Easy-DP-Solution-w-Explanation
+172) Minimum Number of Refueling Stops- Solution
 
  
