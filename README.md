@@ -176,5 +176,6 @@ Here is the resources of the problems:-
 171) Stone Game VII- https://leetcode.com/problems/stone-game-vii/discuss/1264516/JS-Python-Java-C%2B%2B-or-Easy-DP-Solution-w-Explanation
 172) Minimum Number of Refueling Stops- Solution
 173) Validate Binary Search Tree- https://www.youtube.com/watch?v=xTKI0hfwHkM
+174) Palindrom Pairs- Solution
 
  
