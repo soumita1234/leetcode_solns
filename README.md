@@ -186,5 +186,6 @@
 174) Palindrom Pairs- Solution
 175) Maximum Units on a Truck- Solution
 176) Duplicate Zeros- Solution
+177) Gray Code- https://leetcode.com/problems/gray-code/solution/
 
  
