@@ -185,5 +185,6 @@
 173) Validate Binary Search Tree- https://www.youtube.com/watch?v=xTKI0hfwHkM
 174) Palindrom Pairs- Solution
 175) Maximum Units on a Truck- Solution
+176) Duplicate Zeros- Solution
 
  
