@@ -1,6 +1,13 @@
-# leetcode_solns
-leetcode solutions of the questions I've done.
-Here is some resources for understanding the problems.
+<h1 align="center"> Leetcode_Solutions </h1>
+<h4 align="center"> Leetcode solutions of the questions I've done. </h4>
+<h2 align="center"> Maintainer & Admin👩 </h2>
+<table align="center">
+  <tr >
+    <td align="center"><a href="https://github.com/soumita1234"><img src="https://avatars.githubusercontent.com/u/58908901?v=4" height="120px" width="120px"/><br/><sub><b>Soumita Biswa👩</b></sub></a></td>
+  </tr>
+</table>
+
+## Here is some resources for understanding the problems.
 
 Here is the resources of the problems:-
 1)  Two Sum- https://www.studytonight.com/post/leetcode-solution-2-sum-problem
