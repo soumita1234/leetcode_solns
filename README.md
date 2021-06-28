@@ -196,5 +196,6 @@
 184) Redundant Connection- Solution
 185) Count of Smaller Numbers After Self- Solution
 186) Median of Two Sorted Arrays- Solution
+187) Remove All Adjacent Duplicates In String- use Stack.
 
  
