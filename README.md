@@ -199,6 +199,7 @@
 187) Remove All Adjacent Duplicates In String- use Stack.
 188) Max Consecutive Ones III- Solution
 189) Min Path Sum- https://www.youtube.com/watch?v=t1shZ8_s6jc
+190) Word Search- https://www.youtube.com/watch?v=mXWKVqGcL1M
 
 
 
