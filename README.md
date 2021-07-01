@@ -201,6 +201,7 @@
 189) Min Path Sum- https://www.youtube.com/watch?v=t1shZ8_s6jc
 190) Word Search- https://www.youtube.com/watch?v=mXWKVqGcL1M
 191) Long Pressed Name- https://www.youtube.com/watch?v=IQLAtVE19RQ
+192) Spril Matrix- Solution
 
 
 
