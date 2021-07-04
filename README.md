@@ -204,6 +204,7 @@
 192) Spril Matrix- Solution
 193) Find K Closest Elements- https://leetcode.com/problems/find-k-closest-elements/discuss/1310981/Simple-Solutions-w-Explanation-or-All-Possible-Approaches-Explained!
 194) Max Sum of Rectangle No Larger Than K-Solution
+195) Count Vowels Permutation- https://leetcode.com/problems/count-vowels-permutation/discuss/1314992/C%2B%2B-Simple-and-Short-Solution-O(n)-TC-O(1)-SC-0ms-Faster-than-100
 
 
 
