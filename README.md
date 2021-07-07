@@ -35,7 +35,7 @@
 23) Best time to buy and sell stock II- https://www.youtube.com/watch?v=K8iHi8AW1ls
 24) Valid Palindrome- https://www.youtube.com/watch?v=028pTf2kBFI 
 25) Valid Palindrom ii- https://www.youtube.com/watch?v=wTaJp8_bSLQ
-26) Sqrt(x)- Basic sqrt() function of number 'x'
+26) Sqrt(x)- Basic sqrt() function of number 'x' https://www.youtube.com/watch?v=3MyA0dj-_2c
 27) Excel sheet column title- https://www.youtube.com/watch?v=UcTKk2y_3s4
 28) Excel Sheet Column Number- https://www.youtube.com/watch?v=g-l4UpF62x0
 29) Happy Number- https://www.youtube.com/watch?v=Egw03gI-Tf0
