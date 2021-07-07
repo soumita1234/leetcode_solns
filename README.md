@@ -103,7 +103,7 @@
 91) Isomorphic Strings- https://www.youtube.com/watch?v=qOUwtPIIhEU
 92) Find All Numbers Disappeared in an Array- https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/discuss/?currentPage=1&orderBy=hot&query=
 93) Invert binary tree- https://leetcode.com/problems/invert-binary-tree/solution/
-94) Pow(x, n)- general pow function
+94) Pow(x, n)- general pow function https://www.youtube.com/watch?v=l0YC3876qxg
 95) Minimum Moves to Equal Array Elements- https://leetcode.com/problems/minimum-moves-to-equal-array-elements/discuss/?currentPage=1&orderBy=hot&query=
 96) Perfect Number- https://leetcode.com/problems/perfect-number/solution/
 97) Self Dividing Numbers- https://leetcode.com/problems/self-dividing-numbers/solution/
