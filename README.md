@@ -207,6 +207,7 @@
 195) Count Vowels Permutation- https://leetcode.com/problems/count-vowels-permutation/discuss/1314992/C%2B%2B-Simple-and-Short-Solution-O(n)-TC-O(1)-SC-0ms-Faster-than-100
 196) Reshape The Matrix- https://www.youtube.com/watch?v=wCdNh9oThqk
 197) Reduce Array Size to The Half- https://leetcode.com/problems/reduce-array-size-to-the-half/discuss/1319470/C%2B%2B-Simple-and-Clean-Solution-Explained-Easy-to-Understand
+198) Kth Smallest Element in a Sorted Matrix- I did it. Store the values in a vector array and then sort. Return the index
 
 
 
