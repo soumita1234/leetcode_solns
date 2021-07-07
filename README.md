@@ -3,7 +3,7 @@
 <h2 align="center"> Profile Holder👩 </h2>
 <table align="center">
   <tr >
-    <td align="center"><a href="https://leetcode.com/soumitabgl1234/"><img src="https://avatars.githubusercontent.com/u/58908901?v=4" height="120px" width="120px"/><br/><sub><b>Soumita Biswas👩</b></sub></a></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/58908901?v=4" height="120px" width="120px"/><br/><sub><b>Soumita Biswas👩</b></sub></td>
   </tr>
 </table>
 
