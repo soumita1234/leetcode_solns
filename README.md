@@ -209,6 +209,7 @@
 197) Reduce Array Size to The Half- https://leetcode.com/problems/reduce-array-size-to-the-half/discuss/1319470/C%2B%2B-Simple-and-Clean-Solution-Explained-Easy-to-Understand
 198) Kth Smallest Element in a Sorted Matrix- I did it. Store the values in a vector array and then sort. Return the index
 199) Maximum Length of Repeated Subarray- Solution
+200) Jump Game II- Solution
 
 
 
