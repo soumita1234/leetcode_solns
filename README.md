@@ -212,6 +212,7 @@
 200) Jump Game II- Solution
 201) Custom Sort String- Solution
 202) Valid Triangle Number- https://leetcode.com/problems/valid-triangle-number/solution/
+203) Find All Duplicates in an Array- Sort then compare
 
 
 
