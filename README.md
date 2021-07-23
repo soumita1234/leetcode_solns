@@ -214,6 +214,7 @@
 202) Valid Triangle Number- https://leetcode.com/problems/valid-triangle-number/solution/
 203) Find All Duplicates in an Array- Sort then compare
 204) Partition Array into Disjoint Intervals- Solution
+205) Binary Tree Pruning- Solution
 
 
 
