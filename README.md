@@ -215,6 +215,7 @@
 203) Find All Duplicates in an Array- Sort then compare
 204) Partition Array into Disjoint Intervals- Solution
 205) Binary Tree Pruning- Solution
+206) Beautiful Array- Solution
 
 
 
