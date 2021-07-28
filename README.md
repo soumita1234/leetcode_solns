@@ -216,6 +216,7 @@
 204) Partition Array into Disjoint Intervals- Solution
 205) Binary Tree Pruning- Solution
 206) Beautiful Array- Solution
+207) Squares of a Sorted Array- Sort and print after adding squre values
 
 
 
