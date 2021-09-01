@@ -223,6 +223,7 @@
 211) Array of Doubled Pairs- Solution
 212) Decode Ways- Solution
 213) Sum Of Square Numbers- Solution
+214) Array Nesting- Solution
 
 
 
